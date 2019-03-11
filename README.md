@@ -23,7 +23,7 @@
   Για να λειτουργήσει το project μέσα στο περιβάλλον του Supercollider, πρέπει πρώτα να γίνει η εκτέλεση του SynthDef, στη συνέχεια το Synth(x) και τέλος το παράθυρο (w). 
 
 ##### Πηγές
-http://doc.sccode.org/Classes/SynthDef.html
-http://doc.sccode.org/Classes/BPF.html
- http://doc.sccode.org/Classes/GUI.html
+ *[http://doc.sccode.org/Classes/SynthDef.html]
+ *[http://doc.sccode.org/Classes/BPF.html]
+ *[ http://doc.sccode.org/Classes/GUI.html]
  
